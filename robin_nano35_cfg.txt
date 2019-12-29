@@ -139,8 +139,8 @@
 >DEFAULT_X_STEPS_PER_UNIT	80.3	#Default Axis-X Steps Per Unit (steps/mm)	
 >DEFAULT_Y_STEPS_PER_UNIT	80.3	#Default Axis-Y Steps Per Unit (steps/mm)	
 >DEFAULT_Z_STEPS_PER_UNIT	1600	#Default Axis-Z Steps Per Unit (steps/mm)	
->DEFAULT_E0_STEPS_PER_UNIT	412		#Default Axis-E Steps Per Unit (steps/mm)	
->DEFAULT_E1_STEPS_PER_UNIT	90		#Default Axis-E Steps Per Unit (steps/mm)		
+>DEFAULT_E0_STEPS_PER_UNIT	410.5	#Default Axis-E Steps Per Unit (steps/mm)	
+>DEFAULT_E1_STEPS_PER_UNIT	90	#Default Axis-E Steps Per Unit (steps/mm)		
 
 >DEFAULT_X_MAX_FEEDRATE		200	#Default Axis-X Max Feed Rate (mm/s)	
 >DEFAULT_Y_MAX_FEEDRATE		200	#Default Axis-Y Max Feed Rate (mm/s)		
